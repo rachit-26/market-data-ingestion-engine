@@ -1,0 +1,9 @@
+sim_build/
+__pycache__/
+*.vcd
+*.o
+results.xml
+db/
+incremental_db/
+output_files/
+*.qws
